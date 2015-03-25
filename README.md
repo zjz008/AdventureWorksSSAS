@@ -1,0 +1,2 @@
+# AdventureWorksSSAS  
+first readme file
